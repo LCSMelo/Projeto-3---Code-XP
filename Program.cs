@@ -34,9 +34,10 @@ namespace Projeto_3
                 case "0":
                     Console.WriteLine(mensagem + "Sexta-feira.");
                 break;
-                
 
             }
+
+            Console.WriteLine("Obrigado. Volte sempre.");
 
         }
     }
