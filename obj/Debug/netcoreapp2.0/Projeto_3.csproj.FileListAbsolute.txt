@@ -1,0 +1,10 @@
+C:\Users\FIC\Desktop\Projetos\Projeto_3\bin\Debug\netcoreapp2.0\Projeto_3.deps.json
+C:\Users\FIC\Desktop\Projetos\Projeto_3\bin\Debug\netcoreapp2.0\Projeto_3.runtimeconfig.json
+C:\Users\FIC\Desktop\Projetos\Projeto_3\bin\Debug\netcoreapp2.0\Projeto_3.runtimeconfig.dev.json
+C:\Users\FIC\Desktop\Projetos\Projeto_3\bin\Debug\netcoreapp2.0\Projeto_3.dll
+C:\Users\FIC\Desktop\Projetos\Projeto_3\bin\Debug\netcoreapp2.0\Projeto_3.pdb
+C:\Users\FIC\Desktop\Projetos\Projeto_3\obj\Debug\netcoreapp2.0\Projeto_3.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Desktop\Projetos\Projeto_3\obj\Debug\netcoreapp2.0\Projeto_3.AssemblyInfoInputs.cache
+C:\Users\FIC\Desktop\Projetos\Projeto_3\obj\Debug\netcoreapp2.0\Projeto_3.AssemblyInfo.cs
+C:\Users\FIC\Desktop\Projetos\Projeto_3\obj\Debug\netcoreapp2.0\Projeto_3.dll
+C:\Users\FIC\Desktop\Projetos\Projeto_3\obj\Debug\netcoreapp2.0\Projeto_3.pdb
